@@ -1,0 +1,15 @@
+{
+  "master": {
+    "name": "master",
+    "api_key": "",
+    "api_secret": ""
+  },
+  "followers": [
+    {
+      "name": "copy_1",
+      "api_key": "",
+      "api_secret": ""
+    }
+  ]
+}
+

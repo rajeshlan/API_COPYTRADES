@@ -1,0 +1,7 @@
+pybit==5.16.0
+websockets==16.0
+pydantic==2.13.4
+loguru==0.7.3
+python-dotenv==1.2.2
+rich==15.0.0
+pytest==9.0.3

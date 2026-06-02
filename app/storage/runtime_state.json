@@ -1,0 +1,8 @@
+{
+  "follower_health": {},
+  "last_master_event": null,
+  "phase": "phase-5-production-hardening",
+  "seen_event_keys": [],
+  "updated_at_epoch": 0,
+  "version": 1
+}
